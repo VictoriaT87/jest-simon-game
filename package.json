@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/VictoriaT87/jest-simon-game#readme",
   "devDependencies": {
-    "jest": "^29.4.0"
+    "jest": "^29.4.0",
+    "jest-environment-jsdom": "^29.4.0"
   }
 }
